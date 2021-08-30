@@ -1,7 +1,9 @@
 
 ## 学習スケジュールメモ
 
-- アプリのデプロイ
-- SQLの基礎
-- Active Record　様々なメソッド
-- Active Record　削除メソッド
+- [x] アプリのデプロイ
+- [ ] 八百屋プロジェクト
+- [ ] ブラックジャック
+- [ ] SQLの基礎
+- [ ] Active Record　様々なメソッド
+- [ ] Active Record　削除メソッド
